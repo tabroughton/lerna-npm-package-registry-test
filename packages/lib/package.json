@@ -1,0 +1,15 @@
+{
+  "name": "@lerna-test/lib",
+  "version": "0.0.1",
+  "private": true,
+  "main": "dist/index.js",
+  "scripts": {
+    "build": "npx tsc",
+    "start": "tsc-watch"
+  },
+  "devDependencies": {
+    "@types/node": "^12.12.14",
+    "tsc-watch": "^4.0.0",
+    "typescript": "^3.7.3"
+  }
+}
