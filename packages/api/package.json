@@ -1,6 +1,6 @@
 {
   "name": "@lerna-test/api",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "private": true,
   "main": "dist/index.js",
   "scripts": {
@@ -13,6 +13,6 @@
     "typescript": "^3.7.3"
   },
   "dependencies": {
-    "@lerna-test/lib": "^0.0.1"
+    "@lerna-test/lib": "^0.0.2"
   }
 }
