@@ -15,7 +15,7 @@
     "typescript": "^3.7.3"
   },
   "dependencies": {
-    "@ben-poole/lib": "^0.0.2"
+    "@ben-poole/lib": "^0.0.20"
   },
   "repository": {
     "type": "git",
