@@ -10,6 +10,8 @@ export const helperFunction = async (): Promise<User> => {
         name: "benny"
     }
     
+    console.log(user);
+
     return user;
 }
 
