@@ -1,6 +1,6 @@
 {
   "name": "@ben-poole/api",
-  "version": "0.0.8",
+  "version": "0.0.9",
   "publishConfig": {
     "registry": "http://localhost:4873"
   },
@@ -15,7 +15,7 @@
     "typescript": "^3.7.3"
   },
   "dependencies": {
-    "@ben-poole/lib": "^0.0.22"
+    "@ben-poole/lib": "^0.0.23"
   },
   "gitHead": "b3a49a34e533d895c23c9f24dcfd1f68aa1f6a2f"
 }
