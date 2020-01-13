@@ -1,11 +1,10 @@
 {
   "name": "@ben-poole/api",
   "version": "0.0.4",
-  "private": true,
-  "main": "dist/index.js",
   "publishConfig": {
     "registry": "https://npm.pkg.github.com/"
   },
+  "main": "dist/index.js",
   "scripts": {
     "build": "npx tsc",
     "start": "tsc-watch --onSuccess \"node --inspect=127.0.0.1:6011 dist/index.js\" --onFailure \"Compilation Failed\""
