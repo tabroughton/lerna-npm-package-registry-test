@@ -1,5 +1,5 @@
 {
-  "name": "@lerna-test/api",
+  "name": "@ben-poole/api",
   "version": "0.0.2",
   "private": true,
   "main": "dist/index.js",
@@ -14,5 +14,10 @@
   },
   "dependencies": {
     "@lerna-test/lib": "^0.0.2"
+  },
+  "repository": {
+    "type": "git",
+    "url": "ssh://git@github.com/ben-poole/lerna-test.git",
+    "directory": "packages/api"
   }
 }

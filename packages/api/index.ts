@@ -12,8 +12,6 @@ export const invoke = async (): Promise<User> => {
     user.id = "1";
     user.name = "ben";
 
-    console.log(user);
-
     return user;
 }
 
