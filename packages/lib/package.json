@@ -1,6 +1,6 @@
 {
   "name": "@lerna-test/lib",
-  "version": "0.0.14",
+  "version": "0.0.15",
   "private": true,
   "publishConfig": {
     "registry": "https://npm.pkg.github.com/"
