@@ -1,8 +1,8 @@
 {
   "name": "@lerna-test/lib",
-  "version": "0.0.7",
+  "version": "0.0.8",
   "private": true,
-  "publishConfig": { 
+  "publishConfig": {
     "registry": "https://npm.pkg.github.com/"
   },
   "main": "dist/index.js",
