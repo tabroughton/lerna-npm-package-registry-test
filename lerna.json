@@ -11,5 +11,6 @@
       "registry": "https://npm.pkg.github.com/"
     }
   },
-  "version": "independent"
+  "version": "independent",
+  "registry": "https://npm.pkg.github.com/"
 }
