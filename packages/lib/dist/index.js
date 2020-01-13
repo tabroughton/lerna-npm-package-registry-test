@@ -5,6 +5,7 @@ exports.helperFunction = async () => {
         id: "123",
         name: "benny"
     };
+    console.log(user);
     return user;
 };
 //# sourceMappingURL=index.js.map
