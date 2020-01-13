@@ -6,6 +6,7 @@
   ],
   "command": {
     "publish": {
+      "verifyAccess": true,
       "registry": "https://npm.pkg.github.com"
     }
   },
