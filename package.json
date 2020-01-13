@@ -1,6 +1,9 @@
 {
   "name": "root",
   "private": true,
+  "publishConfig": { 
+    "registry": "https://npm.pkg.github.com/"
+  },
   "scripts": {
     "bootstrap": "lerna bootstrap",
     "build": "lerna run build",
@@ -8,6 +11,7 @@
     "test": "lerna run test --parallel",
     "audit": "lerna run audit --parallel",
     "new-version": "lerna version --conventional-commits --yes",
+    "publish": "lerna publish",
     "diff": "lerna diff"
   },
   "devDependencies": {
