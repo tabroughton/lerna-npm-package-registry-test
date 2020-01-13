@@ -1,7 +1,7 @@
 import {
     User,
     helperFunction
-} from '@lerna-test/lib'
+} from '@ben-poole/lib'
 
 export const invoke = async (): Promise<User> => {
     

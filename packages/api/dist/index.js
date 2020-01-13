@@ -1,6 +1,6 @@
 "use strict";
 Object.defineProperty(exports, "__esModule", { value: true });
-const lib_1 = require("@lerna-test/lib");
+const lib_1 = require("@ben-poole/lib");
 exports.invoke = async () => {
     let user = await lib_1.helperFunction();
     console.log(user);
