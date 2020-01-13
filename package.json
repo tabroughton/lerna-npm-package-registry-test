@@ -2,7 +2,7 @@
   "name": "root",
   "private": true,
   "publishConfig": { 
-    "registry": "https://npm.pkg.github.com/"
+    "registry": "https://npm.pkg.github.com/ben-poole"
   },
   "scripts": {
     "bootstrap": "lerna bootstrap",
