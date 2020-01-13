@@ -10,8 +10,8 @@
     "start": "lerna run start --parallel",
     "test": "lerna run test --parallel",
     "audit": "lerna run audit --parallel",
-    "new-version": "lerna version --conventional-commits --yes",
-    "publish": "lerna publish --registry=https://npm.pkg.github.com/",
+    "publish:repo": "lerna version --conventional-commits --yes",
+    "publish:package": "lerna publish --registry=https://npm.pkg.github.com/",
     "diff": "lerna diff"
   },
   "devDependencies": {
