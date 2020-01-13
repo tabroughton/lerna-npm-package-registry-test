@@ -2,7 +2,7 @@
   "name": "@ben-poole/api",
   "version": "0.0.7",
   "publishConfig": {
-    "registry": "https://npm.pkg.github.com/"
+    "registry": "http://localhost:4873"
   },
   "main": "dist/index.js",
   "scripts": {
@@ -16,10 +16,5 @@
   },
   "dependencies": {
     "@ben-poole/lib": "^0.0.21"
-  },
-  "repository": {
-    "type": "git",
-    "url": "ssh://git@github.com/ben-poole/lerna-test.git",
-    "directory": "packages/api"
   }
 }

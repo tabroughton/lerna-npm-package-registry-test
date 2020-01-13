@@ -8,9 +8,8 @@
     "publish": {
       "verifyAccess": true,
       "npmClient": "npm",
-      "registry": "https://npm.pkg.github.com/"
+      "registry": "http://localhost:4873"
     }
   },
-  "version": "independent",
-  "registry": "https://npm.pkg.github.com/"
+  "version": "independent"
 }
