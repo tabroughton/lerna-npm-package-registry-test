@@ -8,7 +8,7 @@
     "publish": {
       "verifyAccess": true,
       "npmClient": "npm",
-      "registry": "https://npm.pkg.github.com/ben-poole"
+      "registry": "https://npm.pkg.github.com/"
     }
   },
   "version": "independent"
