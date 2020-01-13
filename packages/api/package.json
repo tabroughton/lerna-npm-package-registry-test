@@ -16,5 +16,6 @@
   },
   "dependencies": {
     "@ben-poole/lib": "^0.0.22"
-  }
+  },
+  "gitHead": "b3a49a34e533d895c23c9f24dcfd1f68aa1f6a2f"
 }

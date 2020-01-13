@@ -12,7 +12,7 @@ export const invoke = async (): Promise<User> => {
     user.id = "1";
     user.name = "ben";
 
-    console.log(user);
+    console.log(user, user);
 
     return user;
 }
