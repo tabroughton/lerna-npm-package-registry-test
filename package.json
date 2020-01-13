@@ -16,5 +16,10 @@
   },
   "devDependencies": {
     "lerna": "^3.19.0"
+  },
+  "repository" : {
+    "type" : "git",
+    "url": "ssh://git@github.com/ben-poole/lerna-test.git",
+    "directory": "packages/root"
   }
 }

@@ -14,5 +14,10 @@
     "tsc-watch": "^4.0.0",
     "typescript": "^3.7.3"
   },
-  "gitHead": "19ba69ecf66410d87aae965109c0c778b69fc6cc"
+  "gitHead": "958e5243c22d6f8e5e3f28e8f77bbb6cda053723",
+  "repository" : {
+    "type" : "git",
+    "url": "ssh://git@github.com/ben-poole/lerna-test.git",
+    "directory": "packages/lib"
+  }
 }
