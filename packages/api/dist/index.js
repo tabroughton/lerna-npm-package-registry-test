@@ -6,7 +6,7 @@ exports.invoke = async () => {
     console.log(user);
     user.id = "1";
     user.name = "ben";
-    console.log(user);
+    console.log(user, user);
     return user;
 };
 exports.invoke();
