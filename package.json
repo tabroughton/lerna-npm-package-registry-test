@@ -10,7 +10,7 @@
     "start": "lerna run start --parallel",
     "test": "lerna run test --parallel",
     "audit": "lerna run audit --parallel",
-    "publish:repo": "lerna version --conventional-commits --yes",
+    "publish:release": "lerna version --conventional-commits --yes",
     "publish:package": "lerna publish --registry=http://localhost:4873",
     "diff": "lerna diff"
   },
