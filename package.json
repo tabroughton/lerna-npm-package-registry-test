@@ -11,7 +11,7 @@
     "test": "lerna run test --parallel",
     "audit": "lerna run audit --parallel",
     "publish:release": "lerna version --conventional-commits --yes",
-    "publish:package": "lerna publish --registry=http://localhost:4873",
+    "publish:package": "lerna publish --repo-version 0.0.1 --registry=http://localhost:4873",
     "diff": "lerna diff"
   },
   "devDependencies": {
