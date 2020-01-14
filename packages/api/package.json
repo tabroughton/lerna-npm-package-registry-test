@@ -1,6 +1,6 @@
 {
   "name": "@ben-poole/api",
-  "version": "0.0.9",
+  "version": null,
   "publishConfig": {
     "registry": "http://localhost:4873"
   },
