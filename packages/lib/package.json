@@ -1,6 +1,6 @@
 {
   "name": "@ben-poole/lib",
-  "version": null,
+  "version": "1.0.0",
   "publishConfig": {
     "registry": "http://localhost:4873"
   },
