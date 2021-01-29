@@ -1,6 +1,6 @@
 {
   "name": "@ben-poole/api",
-  "version": "0.0.16-937aba4.0",
+  "version": "0.0.17-05bf845.0",
   "repository": "git://github.com/ben-poole/lerna-npm-package-registry-test.git",
   "publishConfig": {
     "registry": "https://npm.pkg.github.com/"
@@ -16,7 +16,7 @@
     "typescript": "^3.7.3"
   },
   "dependencies": {
-    "@ben-poole/lib": "^0.0.16-937aba4.0"
+    "@ben-poole/lib": "^0.0.17-05bf845.0"
   },
   "files": [
     "dist"
