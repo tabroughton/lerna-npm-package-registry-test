@@ -2,7 +2,7 @@
   "name": "@ben-poole/api",
   "version": "0.0.3-cf7c49d.0",
   "publishConfig": {
-    "registry": "https://npm.pkg.github.com/@ben-poole"
+    "registry": "https://npm.pkg.github.com/"
   },
   "main": "dist/index.js",
   "scripts": {
