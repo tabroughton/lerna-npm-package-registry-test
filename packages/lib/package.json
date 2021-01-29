@@ -1,6 +1,6 @@
 {
   "name": "@ben-poole/lib",
-  "version": "0.0.8-0890df5.0",
+  "version": "0.0.9-5affc19.0",
   "repository": "git://github.com/ben-poole/lerna-npm-package-registry-test.git",
   "publishConfig": {
     "registry": "https://npm.pkg.github.com/"
@@ -15,5 +15,5 @@
     "tsc-watch": "^4.0.0",
     "typescript": "^3.7.3"
   },
-  "gitHead": "0890df56087de8920ffd8f6dd3675349db618168"
+  "gitHead": "5affc192872d2f0ab58152ed66c2233c7f071fe2"
 }
