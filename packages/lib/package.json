@@ -1,6 +1,6 @@
 {
   "name": "@ben-poole/lib",
-  "version": "0.0.20-f4483d4.0",
+  "version": "0.0.21-6d9cc4b.0",
   "repository": "git://github.com/ben-poole/lerna-npm-package-registry-test.git",
   "publishConfig": {
     "registry": "https://npm.pkg.github.com/"

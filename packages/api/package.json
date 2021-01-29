@@ -1,6 +1,6 @@
 {
   "name": "@ben-poole/api",
-  "version": "0.0.20-f4483d4.0",
+  "version": "0.0.21-6d9cc4b.0",
   "main": "dist/index.js",
   "scripts": {
     "build": "npx tsc",
@@ -12,7 +12,7 @@
     "typescript": "^3.7.3"
   },
   "dependencies": {
-    "@ben-poole/lib": "^0.0.20-f4483d4.0"
+    "@ben-poole/lib": "^0.0.21-6d9cc4b.0"
   },
   "files": [
     "dist"
