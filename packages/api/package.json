@@ -18,5 +18,8 @@
   "dependencies": {
     "@ben-poole/lib": "^0.0.15-29568a3.0"
   },
+  "files": [
+    "dist"
+  ],
   "gitHead": "5affc192872d2f0ab58152ed66c2233c7f071fe2"
 }
