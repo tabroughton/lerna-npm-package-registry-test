@@ -15,5 +15,8 @@
     "tsc-watch": "^4.0.0",
     "typescript": "^3.7.3"
   },
+  "files": [
+    "dist"
+  ],
   "gitHead": "5affc192872d2f0ab58152ed66c2233c7f071fe2"
 }
