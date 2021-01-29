@@ -1,6 +1,6 @@
 {
   "name": "@ben-poole/lib",
-  "version": "0.0.4-0838e41.0",
+  "version": "0.0.6-452211f.0",
   "publishConfig": {
     "registry": "https://npm.pkg.github.com/"
   },
@@ -14,7 +14,7 @@
     "tsc-watch": "^4.0.0",
     "typescript": "^3.7.3"
   },
-  "gitHead": "0838e4166a5705647def1b37075a1088ed75ed0c",
+  "gitHead": "452211faaaff1ad14f983720138dcfaab20d461c",
   "repository": {
     "type": "git",
     "url": "ssh://git@github.com/ben-poole/lerna-test.git",
