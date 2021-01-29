@@ -1,6 +1,6 @@
 {
   "name": "@ben-poole/api",
-  "version": "0.0.7",
+  "version": "0.0.8",
   "publishConfig": {
     "registry": "https://npm.pkg.github.com/"
   },
@@ -15,7 +15,7 @@
     "typescript": "^3.7.3"
   },
   "dependencies": {
-    "@ben-poole/lib": "^0.0.21"
+    "@ben-poole/lib": "^0.0.22"
   },
   "repository": {
     "type": "git",
