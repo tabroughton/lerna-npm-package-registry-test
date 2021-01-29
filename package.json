@@ -1,6 +1,10 @@
 {
   "name": "@ben-poole/lerna-test",
   "version": "0.0.1",
+  "repository": "git://github.com/ben-poole/lerna-npm-package-registry-test.git",
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com/"
+  },
   "scripts": {
     "bootstrap": "lerna bootstrap",
     "build": "lerna run build",
