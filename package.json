@@ -11,7 +11,8 @@
     "test": "lerna run test --parallel",
     "audit": "lerna run audit --parallel",
     "publish:repo": "lerna version --conventional-commits --yes",
-    "publish:package": "lerna publish --registry=https://npm.pkg.github.com/ --canary=beta --cd-version blaa",
+    "publish:package2": "lerna publish --registry=https://npm.pkg.github.com/ --canary --cd-version blaa",
+    "publish:package": "lerna publish --registry=https://npm.pkg.github.com/ --conventional-commits --independent --skip-git --preid=asb123",
     "diff": "lerna diff"
   },
   "devDependencies": {
