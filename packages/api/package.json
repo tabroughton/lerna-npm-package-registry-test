@@ -1,6 +1,6 @@
 {
   "name": "@ben-poole/api",
-  "version": "0.0.3-cf7c49d.0",
+  "version": "0.0.4-0838e41.0",
   "publishConfig": {
     "registry": "https://npm.pkg.github.com/"
   },
@@ -15,12 +15,12 @@
     "typescript": "^3.7.3"
   },
   "dependencies": {
-    "@ben-poole/lib": "^0.0.3-cf7c49d.0"
+    "@ben-poole/lib": "^0.0.4-0838e41.0"
   },
   "repository": {
     "type": "git",
     "url": "ssh://git@github.com/ben-poole/lerna-test.git",
     "directory": "packages/api"
   },
-  "gitHead": "cf7c49d2a54779a328a9dd92e1127e61ccd1e0ef"
+  "gitHead": "0838e4166a5705647def1b37075a1088ed75ed0c"
 }
