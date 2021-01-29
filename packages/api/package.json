@@ -1,7 +1,6 @@
 {
   "name": "@ben-poole/api",
   "version": "0.0.24-d6d7eec.0",
-  "repository": "git://github.com/ben-poole/lerna-npm-package-registry-test.git",
   "main": "dist/index.js",
   "scripts": {
     "build": "npx tsc",
