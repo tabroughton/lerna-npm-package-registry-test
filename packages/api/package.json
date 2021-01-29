@@ -1,6 +1,7 @@
 {
   "name": "@ben-poole/api",
-  "version": "0.0.6-452211f.0",
+  "version": "0.0.7-7a1845c.0",
+  "repository": "git://github.com/ben-poole/lerna-npm-package-registry-test.git",
   "publishConfig": {
     "registry": "https://npm.pkg.github.com/"
   },
@@ -15,12 +16,7 @@
     "typescript": "^3.7.3"
   },
   "dependencies": {
-    "@ben-poole/lib": "^0.0.6-452211f.0"
+    "@ben-poole/lib": "^0.0.7-7a1845c.0"
   },
-  "repository": {
-    "type": "git",
-    "url": "ssh://git@github.com/ben-poole/lerna-test.git",
-    "directory": "packages/api"
-  },
-  "gitHead": "452211faaaff1ad14f983720138dcfaab20d461c"
+  "gitHead": "7a1845c09d3da966c92c6da921c70ccaec41519d"
 }
