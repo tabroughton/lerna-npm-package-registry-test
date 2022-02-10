@@ -1,6 +1,6 @@
 {
   "name": "@tabroughton/api",
-  "version": "0.1.1-foof.0",
+  "version": "0.1.1-abv.0",
   "publishConfig": {
     "registry": "https://npm.pkg.github.com/"
   },
@@ -21,5 +21,5 @@
   "files": [
     "dist"
   ],
-  "gitHead": "e3eb0f55b9589a24c302b27da67ec96c68157148"
+  "gitHead": "472c024d283e76a4079e719a882272ec8455c72d"
 }

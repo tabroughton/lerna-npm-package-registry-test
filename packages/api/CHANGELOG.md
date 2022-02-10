@@ -3,6 +3,14 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [0.1.1-abv.0](https://github.com/ben-poole/lerna-npm-package-registry-test/compare/@tabroughton/api@0.1.1-foof.0...@tabroughton/api@0.1.1-abv.0) (2022-02-10)
+
+**Note:** Version bump only for package @tabroughton/api
+
+
+
+
+
 # [0.1.0-foo.0](https://github.com/ben-poole/lerna-npm-package-registry-test/compare/@tabroughton/api@0.0.28-foo.4...@tabroughton/api@0.1.0-foo.0) (2022-02-10)
 
 
