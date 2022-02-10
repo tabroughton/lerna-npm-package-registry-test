@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# [0.1.0-foo.0](https://github.com/tabroughton/lerna-test/compare/@tabroughton/lib@0.0.25-foo.4...@tabroughton/lib@0.1.0-foo.0) (2022-02-10)
+
+
+### Features
+
+* fdslkj ([6ed99f2](https://github.com/tabroughton/lerna-test/commit/6ed99f2a382b49d9b7647212b7f9177fcbf88212))
+
+
+
+
+
 ## [0.0.25-foo.4](https://github.com/tabroughton/lerna-test/compare/@tabroughton/lib@0.0.25-foo.3...@tabroughton/lib@0.0.25-foo.4) (2022-02-10)
 
 **Note:** Version bump only for package @tabroughton/lib

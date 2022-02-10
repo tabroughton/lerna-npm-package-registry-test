@@ -1,6 +1,6 @@
 {
   "name": "@tabroughton/api",
-  "version": "0.0.28-foo.4",
+  "version": "0.1.0-foo.0",
   "publishConfig": {
     "registry": "https://npm.pkg.github.com/"
   },
