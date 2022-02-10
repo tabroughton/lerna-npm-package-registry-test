@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# [0.2.0-abv.0](https://github.com/ben-poole/lerna-npm-package-registry-test/compare/@tabroughton/api@0.1.1-abv.1...@tabroughton/api@0.2.0-abv.0) (2022-02-10)
+
+
+### Features
+
+* fsdlkj ([7df5107](https://github.com/ben-poole/lerna-npm-package-registry-test/commit/7df5107b26f13b6272380ff05593037e41096200))
+
+
+
+
+
 ## [0.1.1-abv.1](https://github.com/ben-poole/lerna-npm-package-registry-test/compare/@tabroughton/api@0.1.1-abv.0...@tabroughton/api@0.1.1-abv.1) (2022-02-10)
 
 
