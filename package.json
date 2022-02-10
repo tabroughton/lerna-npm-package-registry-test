@@ -1,7 +1,7 @@
 {
-  "name": "@ben-poole/lerna-test",
+  "name": "@tabroughton/lerna-test",
   "version": "0.0.1",
-  "publishConfig": { 
+  "publishConfig": {
     "registry": "https://npm.pkg.github.com/"
   },
   "scripts": {
@@ -15,11 +15,14 @@
     "diff": "lerna diff"
   },
   "devDependencies": {
-    "lerna": "^3.19.0"
+    "lerna": "^4.0.0"
   },
-  "repository" : {
-    "type" : "git",
-    "url": "ssh://git@github.com/ben-poole/lerna-test.git",
+  "repository": {
+    "type": "git",
+    "url": "ssh://git@github.com/tabroughton/lerna-test.git",
     "directory": "packages/root"
+  },
+  "dependencies": {
+    "typescript": "^4.5.5"
   }
 }

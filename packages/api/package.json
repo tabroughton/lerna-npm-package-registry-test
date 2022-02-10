@@ -1,12 +1,12 @@
 {
-  "name": "@ben-poole/api",
+  "name": "@tabroughton/api",
   "version": "0.0.7",
   "publishConfig": {
     "registry": "https://npm.pkg.github.com/"
   },
   "main": "dist/index.js",
   "scripts": {
-    "build": "npx tsc",
+    "build": "tsc --build",
     "start": "tsc-watch --onSuccess \"node --inspect=127.0.0.1:6011 dist/index.js\" --onFailure \"Compilation Failed\""
   },
   "devDependencies": {
@@ -15,11 +15,11 @@
     "typescript": "^3.7.3"
   },
   "dependencies": {
-    "@ben-poole/lib": "^0.0.21"
+    "@tabroughton/lib": "^0.0.21"
   },
   "repository": {
     "type": "git",
-    "url": "ssh://git@github.com/ben-poole/lerna-test.git",
+    "url": "ssh://git@github.com/tabroughton/lerna-test.git",
     "directory": "packages/api"
   }
 }
