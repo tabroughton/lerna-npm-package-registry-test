@@ -1,6 +1,6 @@
 {
   "name": "@tabroughton/lib",
-  "version": "0.0.25-foo.1",
+  "version": "0.0.25-foo.2",
   "publishConfig": {
     "registry": "https://npm.pkg.github.com/"
   },
@@ -14,7 +14,7 @@
     "tsc-watch": "^4.0.0",
     "typescript": "^3.7.3"
   },
-  "gitHead": "210842894ddce4c3e62873496cd855f7f388fcd4",
+  "gitHead": "4078f4eee3af33b1a903b4774b8181909914f1ca",
   "repository": {
     "type": "git",
     "url": "ssh://git@github.com/tabroughton/lerna-test.git",
