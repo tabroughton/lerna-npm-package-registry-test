@@ -1,6 +1,6 @@
 {
-  "name": "@tabroughton/api",
-  "version": "0.2.0-asfdsadfs.3",
+  "name": "@tabroughton/api3",
+  "version": "0.0.1",
   "publishConfig": {
     "registry": "https://npm.pkg.github.com/"
   },
@@ -14,9 +14,6 @@
     "@types/node": "^12.12.14",
     "tsc-watch": "^4.0.0",
     "typescript": "^3.7.3"
-  },
-  "dependencies": {
-    "@tabroughton/lib": "^0.0.24-d6d7eec.0"
   },
   "files": [
     "dist"
