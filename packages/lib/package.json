@@ -14,7 +14,7 @@
     "tsc-watch": "^4.0.0",
     "typescript": "^3.7.3"
   },
-  "gitHead": "472c024d283e76a4079e719a882272ec8455c72d",
+  "gitHead": "13beff370db0a941f364ebb64226bfb89b7e74a2",
   "repository": {
     "type": "git",
     "url": "ssh://git@github.com/tabroughton/lerna-test.git",
