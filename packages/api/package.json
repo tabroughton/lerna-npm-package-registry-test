@@ -1,6 +1,6 @@
 {
   "name": "@tabroughton/api",
-  "version": "0.1.1-abv.0",
+  "version": "0.1.1-abv.1",
   "publishConfig": {
     "registry": "https://npm.pkg.github.com/"
   },
