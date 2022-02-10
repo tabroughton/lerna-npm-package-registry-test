@@ -1,6 +1,6 @@
 {
   "name": "@tabroughton/lib",
-  "version": "0.1.0",
+  "version": "0.1.1-conventional-commits.0",
   "publishConfig": {
     "registry": "https://npm.pkg.github.com/"
   },
