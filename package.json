@@ -13,7 +13,7 @@
     "publish:repo": "lerna version --conventional-commits --yes",
     "publish:package1": "lerna publish --registry=https://npm.pkg.github.com/ --canary --cd-version abc123 --no-git-tag-version --no-push",
     "publish:package2": "lerna publish --registry=https://npm.pkg.github.com/ --conventional-commits --skip-git --preid=abc123",
-    "publish:package": "lerna publish --registry https://npm.pkg.github.com/ --yes --force-publish='*' --dist-tag latest --preid `git rev-parse --short HEAD` prepatch",
+    "publish:package": "lerna publish --registry https://npm.pkg.github.com/ --yes --force-publish='*' --dist-tag latest --preid `echo foo` custom-prerelease",
     "diff": "lerna diff"
   },
   "devDependencies": {
