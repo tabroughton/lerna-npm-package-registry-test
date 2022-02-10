@@ -6,7 +6,7 @@ import {
 export const invoke = async (): Promise<User> => {
 
     let user: User = await helperFunction();
-
+    let foo = "foo";
     console.log(user);
 
     user.id = "1";
