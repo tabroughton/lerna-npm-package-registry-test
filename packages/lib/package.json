@@ -1,13 +1,12 @@
 {
-  "name": "@ben-poole/lib",
-  "version": "0.0.24-d6d7eec.0",
-  "repository": "git://github.com/ben-poole/lerna-npm-package-registry-test.git",
+  "name": "@tabroughton/lib",
+  "version": "0.0.21",
   "publishConfig": {
     "registry": "https://npm.pkg.github.com/"
   },
   "main": "dist/index.js",
   "scripts": {
-    "build": "npx tsc",
+    "build": "tsc --build",
     "start": "tsc-watch"
   },
   "devDependencies": {
@@ -15,8 +14,10 @@
     "tsc-watch": "^4.0.0",
     "typescript": "^3.7.3"
   },
-  "files": [
-    "dist"
-  ],
-  "gitHead": "7909c2a67d3afb1da1e8699aa01908e4dc38c45f"
+  "gitHead": "958e5243c22d6f8e5e3f28e8f77bbb6cda053723",
+  "repository": {
+    "type": "git",
+    "url": "ssh://git@github.com/tabroughton/lerna-test.git",
+    "directory": "packages/lib"
+  }
 }
